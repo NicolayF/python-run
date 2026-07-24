@@ -1,3 +1,14 @@
+.python-version
+pyproject.toml
+uv.lock
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+datos/*
+!datos/.gitkeep
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
